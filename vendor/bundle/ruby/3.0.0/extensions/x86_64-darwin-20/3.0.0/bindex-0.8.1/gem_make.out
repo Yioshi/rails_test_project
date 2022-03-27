@@ -1,0 +1,15 @@
+current directory: /Users/martinferrari/Dropbox/Coding/Ruby/Projects/Udemy Rails/RoR/martin_rails/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/martinferrari/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/martinferrari/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 -r ./siteconf20220326-57634-bmwxv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/martinferrari/Dropbox/Coding/Ruby/Projects/Udemy Rails/RoR/martin_rails/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/martinferrari/Dropbox/Coding/Ruby/Projects/Udemy Rails/RoR/martin_rails/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/martinferrari/Dropbox/Coding/Ruby/Projects/Udemy Rails/RoR/martin_rails/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20220326-57634-g90fpf/skiptrace/internal

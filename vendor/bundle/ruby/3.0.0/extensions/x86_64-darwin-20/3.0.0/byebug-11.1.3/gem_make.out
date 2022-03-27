@@ -1,0 +1,19 @@
+current directory: /Users/martinferrari/Dropbox/Coding/Ruby/Projects/Udemy Rails/RoR/martin_rails/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+/Users/martinferrari/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/martinferrari/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 -r ./siteconf20220326-57634-46do4c.rb extconf.rb
+creating Makefile
+
+current directory: /Users/martinferrari/Dropbox/Coding/Ruby/Projects/Udemy Rails/RoR/martin_rails/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= clean
+
+current directory: /Users/martinferrari/Dropbox/Coding/Ruby/Projects/Udemy Rails/RoR/martin_rails/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\=
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/martinferrari/Dropbox/Coding/Ruby/Projects/Udemy Rails/RoR/martin_rails/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20220326-57634-b05p8s/byebug
